@@ -1,27 +1,27 @@
 @font-face {
-    font-family: 'Great Vibes';
-    src: url('fonts/GreatVibes-Regular.woff2') format('woff2'),
-        url('fonts/GreatVibes-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-BoldItalic.woff2') format('woff2'),
+        url('fonts/Roboto-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'Inconsolata';
-    src: url('fonts/Inconsolata-Regular.woff2') format('woff2'),
-        url('fonts/Inconsolata-Regular.woff') format('woff');
+    font-family: 'Pacifico';
+    src: url('fonts/Pacifico-Regular.woff2') format('woff2'),
+        url('fonts/Pacifico-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
 address {
-  font-family: 'Inconsolata';
-  font-weight: normal;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-style: italic;
 }
 
 blockquote {
-  font-family: 'Great Vibes';
+  font-family: 'Pacifico';
   font-weight: normal;
 }
